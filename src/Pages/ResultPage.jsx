@@ -47,9 +47,6 @@ export default function ResultPage() {
               setPersonalityData({
                 type: found.type,
                 description: found.description,
-                strengths: found.strengths,
-                weaknesses: found.weaknesses,
-                suitable_roles: found.suitable_roles,
               });
             }
           }
