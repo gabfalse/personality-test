@@ -141,7 +141,7 @@ export default function ResultPage() {
                   </Typography>
                   <Typography variant="body2" sx={{ color: "#4A4A6B" }}>
                     {personalityData.strengths ||
-                      "See website for full details"}
+                      "See our official website for full details"}
                   </Typography>
                 </Paper>
 
@@ -206,7 +206,7 @@ export default function ResultPage() {
                     fontWeight: "bold",
                   }}
                 >
-                  the official website
+                  Rutee
                 </a>
                 .
               </Typography>
